@@ -1,0 +1,31 @@
+{
+    "name": "helmy-code-theme",
+    "displayName": "helmy-code-theme",
+    "description": "HeLmY's favorite color schema for VS Code!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HeLmY CoDe Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HeLmY CoDe Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/helmy-code.png",
+    "author": {
+        "name": "Helmuth J. Paz Vargas",
+        "email": "helmy.pv@gmail.com"
+    },
+    "publisher": "helmy-code",
+    "repository": {
+        "url": "https://github.com/HeLmY-CoDe/helmy-code-theme.git",
+        "type": "git"
+    }
+}
