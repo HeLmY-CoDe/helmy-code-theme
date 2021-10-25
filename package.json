@@ -19,7 +19,7 @@
             }
         ]
     },
-    "icon": "./icon/helmy-code.png",
+    "icon": "icon/helmy-code.png",
     "author": {
         "name": "Helmuth J. Paz Vargas",
         "email": "helmy.pv@gmail.com"
