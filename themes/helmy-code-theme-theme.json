@@ -214,7 +214,7 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.class"
 			],
 			"settings": {
 				"foreground": "#05f1c6",
