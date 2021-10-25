@@ -2,7 +2,7 @@
     "name": "helmy-code-theme",
     "displayName": "HeLmY CoDe Theme",
     "description": "HeLmY's favorite color schema for VS Code!",
-    "version": "1.0.6",
+    "version": "1.1.5",
     "license": "",
     "engines": {
         "vscode": "*"
