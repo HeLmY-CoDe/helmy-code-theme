@@ -26,7 +26,19 @@
     },
     "publisher": "helmy-code",
     "repository": {
-        "url": "https://github.com/HeLmY-CoDe/helmy-code-theme.git",
-        "type": "git"
-    }
+        "type": "git",
+        "url": "https://github.com/HeLmY-CoDe/helmy-code-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "helmy",
+        "tema oscuro",
+        "best theme",
+        "best dark theme",
+        "mejor tema",
+        "mejor tema oscuro",
+        "cool theme",
+        "tema cool"
+    ]
 }
