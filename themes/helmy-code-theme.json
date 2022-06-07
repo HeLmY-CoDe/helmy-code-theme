@@ -15,7 +15,7 @@
 		"dropdown.border": "#121b25",
 		"diffEditor.insertedTextBackground": "#6b961634",
 		"diffEditor.removedTextBackground": "#6210af34",
-		"editor.background": "#06111C",
+		"editor.background": "#040f17",
 		"editor.findMatchBackground": "#1d3d5377",
 		"editor.findMatchBorder": "#ffee02AA",
 		"editor.findMatchHighlightBackground": "#ffee0227",
@@ -130,13 +130,13 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#FD5E6B"
+				"foreground": "#ff6368"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#FF7671"
+				"foreground": "#ff6368"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#C6ACFF",
+				"foreground": "#d1b0ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -156,7 +156,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C6ACFF",
+				"foreground": "#d1b0ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -201,7 +201,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#3bd8ff"
+				"foreground": "#31c4fa"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"support.other.namespace.php"
 			],
 			"settings": {
-				"foreground": "#A3D9FF"
+				"foreground": "#9bd2fa"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"brackethighlighter.quote"
 			],
 			"settings": {
-				"foreground": "#FFC978"
+				"foreground": "#f1cd73"
 			}
 		},
 		{
@@ -308,7 +308,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#FFA071"
+				"foreground": "#ffa16e"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"markup.underline"
 			],
 			"settings": {
-				"foreground": "#FFA071",
+				"foreground": "#ffa16e",
 				"fontStyle": "underline"
 			}
 		},
