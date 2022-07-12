@@ -130,13 +130,13 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ff6368"
+				"foreground": "#ff5a62"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#ff6368"
+				"foreground": "#ff5a62"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#d1b0ff",
+				"foreground": "#cab9ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -156,7 +156,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#d1b0ff",
+				"foreground": "#cab9ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -169,7 +169,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#1DA9FA"
+				"foreground": "#29b8ff"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 				"punctuation"
 			],
 			"settings": {
-				"foreground": "#73BDF1"
+				"foreground": "#7fcaff"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#31c4fa"
+				"foreground": "#05d1ff"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"support.other.namespace.php"
 			],
 			"settings": {
-				"foreground": "#9bd2fa"
+				"foreground": "#99d6ff"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#0AFFD2"
+				"foreground": "#00ffdd"
 			}
 		},
 		{
@@ -232,7 +232,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#0AFFD2",
+				"foreground": "#00ffdd",
 				"fontStyle": ""
 			}
 		},
@@ -241,7 +241,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#0AFFD2",
+				"foreground": "#00ffdd",
 				"fontStyle": "italic"
 			}
 		},
@@ -260,7 +260,7 @@
 				"brackethighlighter.quote"
 			],
 			"settings": {
-				"foreground": "#f1cd73"
+				"foreground": "#ffe180"
 			}
 		},
 		{
@@ -308,7 +308,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#ffa16e"
+				"foreground": "#ffa673"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"markup.underline"
 			],
 			"settings": {
-				"foreground": "#ffa16e",
+				"foreground": "#ffa673",
 				"fontStyle": "underline"
 			}
 		},
@@ -372,13 +372,13 @@
 		{
 			"scope": "keyword.other.DML.sql",
 			"settings": {
-				"foreground": "#90C2FF"
+				"foreground": "#8ec5ff"
 			}
 		},
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#FF7977"
+				"foreground": "#ff7268"
 			}
 		}
 	]
