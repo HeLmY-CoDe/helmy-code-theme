@@ -15,14 +15,14 @@
 		"dropdown.border": "#121b25",
 		"diffEditor.insertedTextBackground": "#6b961634",
 		"diffEditor.removedTextBackground": "#6210af34",
-		"editor.background": "#051521",
+		"editor.background": "#001423",
 		"editor.findMatchBackground": "#1d3d5377",
 		"editor.findMatchBorder": "#ffee02AA",
 		"editor.findMatchHighlightBackground": "#ffee0227",
 		"editor.foreground": "#ffffff",
 		"editor.lineHighlightBackground": "#050e14",
 		"editor.rangeHighlightBackground": "#0c1219",
-		"editor.selectionBackground": "#1d3d5377",
+		"editor.selectionBackground": "#28406188",
 		"editor.selectionHighlightBackground": "#0099ff34",
 		"editor.wordHighlightBorder": "#ff9216",
 		"editor.wordHighlightBackground": "#0099ff25",
@@ -31,7 +31,7 @@
 		"editorIndentGuide.activeBackground": "#80cbc470",
 		"editorIndentGuide.background": "#37474f91",
 		"editorLineNumber.activeForeground": "#ffffff",
-		"editorLineNumber.foreground": "#7b9aa9",
+		"editorLineNumber.foreground": "#85a6b7",
 		"editorMarkerNavigation.background": "#121b25",
 		"editorPane.background": "#1f313d",
 		"editorSuggestWidget.background": "#111b22",
@@ -91,7 +91,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#6E93AD",
+				"foreground": "#7aa0bb",
 				"fontStyle": "italic"
 			}
 		},
@@ -130,13 +130,13 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ff5a62"
+				"foreground": "#ff5a68"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#ff5a62"
+				"foreground": "#ff5a68"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#c3c0ff",
+				"foreground": "#c3c2ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -156,7 +156,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#c3c0ff",
+				"foreground": "#c3c2ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -169,7 +169,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#50a5ff"
+				"foreground": "#4da3ff"
 			}
 		},
 		{
@@ -177,6 +177,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
+				"foreground": "#9297df",
 				"fontStyle": "bold"
 			}
 		},
@@ -185,7 +186,7 @@
 				"punctuation"
 			],
 			"settings": {
-				"foreground": "#7fcaff"
+				"foreground": "#71d0ff"
 			}
 		},
 		{
@@ -209,7 +210,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#05d1ff"
+				"foreground": "#00d0ff"
 			}
 		},
 		{
@@ -221,7 +222,7 @@
 				"support.other.namespace.php"
 			],
 			"settings": {
-				"foreground": "#9ed7ff"
+				"foreground": "#90d1ff"
 			}
 		},
 		{
@@ -232,7 +233,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#00ffdd"
+				"foreground": "#00facc"
 			}
 		},
 		{
@@ -240,8 +241,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#00ffdd",
-				"fontStyle": ""
+				"foreground": "#00facc"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#00ffdd",
+				"foreground": "#00facc",
 				"fontStyle": "italic"
 			}
 		},
@@ -268,7 +268,7 @@
 				"brackethighlighter.quote"
 			],
 			"settings": {
-				"foreground": "#ffef88"
+				"foreground": "#fff080"
 			}
 		},
 		{
@@ -276,7 +276,8 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#00facc",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -316,7 +317,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#ffa673"
+				"foreground": "#ffa070"
 			}
 		},
 		{
@@ -324,7 +325,7 @@
 				"markup.underline"
 			],
 			"settings": {
-				"foreground": "#ffa673",
+				"foreground": "#ffa070",
 				"fontStyle": "underline"
 			}
 		},
@@ -380,13 +381,13 @@
 		{
 			"scope": "keyword.other.DML.sql",
 			"settings": {
-				"foreground": "#8ec5ff"
+				"foreground": "#8cc4ff"
 			}
 		},
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#ff7268"
+				"foreground": "#ff6868"
 			}
 		}
 	]
