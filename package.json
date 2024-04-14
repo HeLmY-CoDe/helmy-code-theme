@@ -2,7 +2,7 @@
     "name": "helmy-code-theme",
     "displayName": "HeLmY CoDe Theme",
     "description": "HeLmY's favorite color schema for VS Code!",
-    "version": "1.7.8",
+    "version": "1.9.6",
     "license": "",
     "engines": {
         "vscode": "*"
@@ -42,5 +42,8 @@
         "mejor tema oscuro",
         "cool theme",
         "tema cool"
-    ]
+    ],
+    "dependencies": {
+        "@vscode/vsce": "^2.19.0"
+    }
 }
